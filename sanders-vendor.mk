@@ -1470,6 +1470,7 @@ PRODUCT_COPY_FILES += \
 
 
 PRODUCT_PACKAGES += \
+    Fdroid \
     libqct_resampler \
     TimeService \
     embms \
